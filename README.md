@@ -99,4 +99,4 @@ If you wold like to update your model to improve model's performance, [Airflow](
 
 ## Acknowledgement
 
-This work is the final project for EECS-E6893@Columbia University.
+This work is the final project for EECS-E6893@Columbia University. Due to the GitHub's limitation on file sizes, we can not upload our model. Please contract [me](yy3089@columbia.edu) if you want our model files. 
