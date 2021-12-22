@@ -1,5 +1,5 @@
 # E6893-final-project: Automatic Image Labelling System
-Final Project of ELEN6893@Columbia University: Automatic Image Labelling System
+Final Project of EECS6893@Columbia University: Automatic Image Labelling System
 - author: [Yi Yang](https://github.com/yaannnik), [Jiashu Chen](https://github.com/Jiashu0326), [Jing Peng](https://github.com/paterlisia)
 
 <img src="./figures/upload.png" alt="Page" style="zoom:40%;" />
